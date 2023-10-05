@@ -4,7 +4,9 @@ const asideLinks = [
     { path: "/", title: "Home" },
     { path: "/dashboard", title: "Dashboard" },
     { path: "/dashboard/add-product", title: "Add Product" },
-    { path: "/dashboard/manage-product", title: "Manage Product" }
+    { path: "/dashboard/manage-product", title: "Manage Product" },
+    { path: "/dashboard/all-products", title: "All Products" }
+
 ]
 const DashboardSiteBar = () => {
     return (
