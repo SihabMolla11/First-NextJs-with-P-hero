@@ -1,0 +1,310 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Category 1",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Category 2",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Category 3",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Category 4",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Category 5",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Category 6",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Category 7",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Category 8",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Category 9",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Category 10",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Category 11",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Category 12",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Category 13",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Category 14",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Category 15",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Category 16",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Category 17",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Category 18",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Category 19",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Category 20",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 39,
+      "categoryId": 1,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg",
+      "features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "price": 49,
+      "categoryId": 2,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg",
+      "features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Product 5",
+      "price": 59,
+      "categoryId": 1,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg",
+      "features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Product 6",
+      "price": 69,
+      "categoryId": 2,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg",
+      "features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Product 8",
+      "price": 89,
+      "categoryId": 2,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg",
+      "features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Product 9",
+      "price": 99,
+      "categoryId": 1,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg",
+      "features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Product 10",
+      "price": 109,
+      "categoryId": 2,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg",
+      "features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Product 11",
+      "price": 119,
+      "categoryId": 1,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg",
+      "features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Product 12",
+      "price": 129,
+      "categoryId": 2,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg",
+      "features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Product 13",
+      "price": 139,
+      "categoryId": 1,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg",
+      "features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Product 14",
+      "price": 149,
+      "categoryId": 2,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg",
+      "features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Product 15",
+      "price": 159,
+      "categoryId": 1,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg",
+      "features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Product 16",
+      "price": 169,
+      "categoryId": 2,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg",
+      "features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Product 17",
+      "price": 179,
+      "categoryId": 1,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg",
+      "features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Product 18",
+      "price": 189,
+      "categoryId": 2,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg",
+      "features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Product 19",
+      "price": 199,
+      "categoryId": 1,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg",
+      "features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Product 20",
+      "price": 209,
+      "categoryId": 2,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2021/2/BS/FI/UD/63205216/pharmaceutical-products-500x500.jpg",
+      "features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ]
+    }
+  ]
+}
